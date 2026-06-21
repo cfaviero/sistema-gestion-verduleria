@@ -18,7 +18,7 @@ Sistema de Gestión de Stock de mercaderia para Verduleria.
 
 Arquitectura GUI:
 - Visualizacion de Stock
-- Interfaz simple para control y reposicion de stock
+- Interfaz simple para control y reposición de stock
 
 ## 🛠 Technologies
 
@@ -39,4 +39,4 @@ Arquitectura GUI:
 
 ## 🧠 Technical Decisions
 
-- En el proximo release se implementara sistema para la gestion contable.
+- En el proximo release se implementara sistema para la gestión contable.
