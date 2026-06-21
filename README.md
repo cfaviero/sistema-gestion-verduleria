@@ -10,7 +10,7 @@ Sistema de Gestión de Stock de mercaderia para Verduleria.
 
 ## 📌 Features
 
-- CRUD para control de stock 
+- CRUD para control de stock.
 
 ---
 
