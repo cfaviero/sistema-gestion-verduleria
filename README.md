@@ -39,4 +39,4 @@ Arquitectura GUI:
 
 ## 🧠 Technical Decisions
 
-- En el proximo release se implementara sistema para la gestión contable.
+- En el proximo release se implementara sistema para la gestión contable y el analisis financiero.
