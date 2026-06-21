@@ -4,7 +4,7 @@
 ![.NET](https://img.shields.io/badge/.net-2010-violet)
 ![MARIADB](https://img.shields.io/badge/MARIADB-12-green)
 
-Sistema de Gestion de Stock de mercaderia para Verduleria.
+Sistema de Gestión de Stock de mercaderia para Verduleria.
 
 ---
 
