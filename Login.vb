@@ -60,4 +60,6 @@ Public Class Login
     Private Sub Login_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         MyBase.AcceptButton = btnEntrar
     End Sub
+
+    'puto el que lee'
 End Class
