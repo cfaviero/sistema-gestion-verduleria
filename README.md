@@ -1,20 +1,20 @@
 # Sistema de Gestion de Verduleria
 
-![VISUAL BASIC](https://img.shields.io/badge/Visual_Basic-5C2D91-blue)
-![.NET](https://img.shields.io/badge/.net-2010-violet)
-![MARIADB](https://img.shields.io/badge/MARIADB-12-green)
+![VISUAL BASIC](https://img.shields.io/badge/Visual_Basic-17.13+-blue)
+![.NET](https://img.shields.io/badge/.net-10.0-violet)
+![MARIADB](https://img.shields.io/badge/MARIADB-11.4-green)
 
-Sistema de Gestión de Stock de mercaderia para Verduleria.
+Sistema de Gestión para la Verduleria "Thian".
 
 ---
 
 ## 📌 Features
 
-- CRUD para control de stock.
+- ABM para control de stock.
 
 ---
 
-## 🏗 Architecture
+## 🏗 Arquitectura
 
 Arquitectura GUI:
 - Visualizacion de Stock
@@ -22,18 +22,18 @@ Arquitectura GUI:
 
 ## 🛠 Technologies
 
-- Visual Basic 5C2D91
-- .NET 2010
-- MARIADB 12
+- Visual Basic 17.13+
+- .NET 10.0
+- MARIADB 11.4
 
 ---
 
-## ⚙ Requirements
+## ⚙ Requerimientos
 
-- Visual Basic 5C2D91
-- .NET 2010
+- Visual Basic 17.13+
+- .NET 10.0
 - MySQL 8+
-- MariaDB 12
+- MariaDB 11.4
 
 ---
 
